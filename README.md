@@ -4,10 +4,9 @@
 Interested in Python (ML, AI) with a passion for learning everything. Always looking to collaborate on any projects related to Computer Science. Feel free to reach out to me at kishoregantla@gmail.com.
 
 ## 📚 Writing
-I share my knowledge and experience on [Linkedin]([https://dev.to/kishoregantla](https://www.linkedin.com/in/gantla-kishore-67137b11b/)).
+I share my knowledge and experience on [Linkedin](https://www.linkedin.com/in/gantla-kishore-67137b11b).
 
-## 💻 Interesting Contributions
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=kishoregantla&repo=python-projects&theme=dark&show_owner=true)](https://github.com/kishoregantla/python-projects/pull/1)
+
 
 ## 🛠️ Technologies & Tools
 I am comfortable with several tools and languages, but here are the ones I work with most frequently.
