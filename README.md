@@ -1,4 +1,3 @@
-##[![Header](https://github.com/kishore211/kishore211/blob/main/banner.png?raw=true "Header")](https://github.com/kishoregantla)
 
 ## 👋 Hi, I'm @kishore_gantla!
 Interested in Python (ML, AI) with a passion for learning everything. Always looking to collaborate on any projects related to Computer Science. Feel free to reach out to me at kishoregantla@gmail.com.
